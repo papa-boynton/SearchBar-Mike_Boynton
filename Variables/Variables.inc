@@ -1,1 +1,12 @@
-
+[Variables]
+CurrentInput=""
+env1="Google"
+env2="DuckDuckGo"
+env3="Bing"
+env4="Yahoo!"
+env5="Ask"
+Logo1=#CURRENTPATH#Images\google.png
+Logo2=#CURRENTPATH#Images\duckduckgo.png
+Logo3=#CURRENTPATH#Images\bing.png
+Logo4=#CURRENTPATH#Images\yahoo.png
+Logo5=#CURRENTPATH#Images\ask.png
