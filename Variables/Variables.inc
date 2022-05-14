@@ -10,3 +10,5 @@ Logo2=#CURRENTPATH#Images\duckduckgo.png
 Logo3=#CURRENTPATH#Images\bing.png
 Logo4=#CURRENTPATH#Images\yahoo.png
 Logo5=#CURRENTPATH#Images\ask.png
+CurrentFontSize=#DropdownItemFontSize#
+RoundTo=1
