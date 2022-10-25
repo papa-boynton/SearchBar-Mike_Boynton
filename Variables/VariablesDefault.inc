@@ -1,8 +1,8 @@
 [Variables]
 
 CustomAppName=Searchbar
-CustomAppVersion=2.0
-CustomAppCreators=Mike Boynton#CRLF# & Cariboudjan
+CustomAppVersion=2.1
+CustomAppCreators=Mike Boynton & Cariboudjan
 
 URLLocale1=com
 URLLocale2=ca
