@@ -10,7 +10,7 @@ URLLocale3=es
 URLLocale4=br
 URLLocale5=be
 
-URLLocalNum=1
+URLLocaleNum=1
 
 Flag1=1
 Flag2=2
@@ -56,4 +56,4 @@ FlagPic3=#CURRENTPATH#Images\es.png
 FlagPic4=#CURRENTPATH#Images\br.png
 FlagPic5=#CURRENTPATH#Images\be.png
 
-CommunityAppRunOnce=0
+CommunityAppRunOnce=1
