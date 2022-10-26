@@ -50,10 +50,10 @@ Logo8=#CURRENTPATH#Images\bestbuy.png
 Logo9=#CURRENTPATH#Images\newegg.png
 Logo10=#CURRENTPATH#Images\etsy.png
 
-FlagPic1=#CURRENTPATH#Images\com.png
-FlagPic2=#CURRENTPATH#Images\ca.png
-FlagPic3=#CURRENTPATH#Images\es.png
-FlagPic4=#CURRENTPATH#Images\br.png
-FlagPic5=#CURRENTPATH#Images\be.png
+FlagPic1=#SKINSPATH#Droptop Community Apps\Apps\SearchBar-Mike_Boynton\Images\com.png
+FlagPic2=#SKINSPATH#Droptop Community Apps\Apps\SearchBar-Mike_Boynton\Images\ca.png
+FlagPic3=#SKINSPATH#Droptop Community Apps\Apps\SearchBar-Mike_Boynton\Images\es.png
+FlagPic4=#SKINSPATH#Droptop Community Apps\Apps\SearchBar-Mike_Boynton\Images\br.png
+FlagPic5=#SKINSPATH#Droptop Community Apps\Apps\SearchBar-Mike_Boynton\Images\be.png
 
 CommunityAppRunOnce=1
