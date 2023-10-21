@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a>
+  <a href="#"><img src="images/Logo.png" alt="Logo" width="200"></a>
   <br>
   Search Bar - Mike Boynton
   <br>
@@ -27,7 +27,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](Images/Screenshot.png)
+![screenshot](images/Screenshot.png)
 
 ## Key Features
 Search the Internet with your choice of five search sites. Based on original code by JSMorley.
