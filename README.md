@@ -35,7 +35,7 @@ Install and activate the app.  Left click, choose search provider.  Select input
 https://github.com/papa-boynton/SearchBar-Mike_Boynton/releases/latest
 
 ## Credits
-Written by [Mike Boynton](https://github.com/papa-boynton).
+Written by [TheyCallMePapa](https://github.com/papa-boynton).
 
 ## License
 Creative Commons Attribution-Non-Commercial-Share Alike 3.0
