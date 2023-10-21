@@ -2,7 +2,7 @@
   <br>
   <a href="#"><img src="images/Logo.png" alt="Logo" width="200"></a>
   <br>
-  Center Infos - TheyCallMePapa
+  SearchBar-Mike_Boynton
   <br>
 </h1>
 
