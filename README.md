@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a>
+  <a href="#"><img src="images/Logo.png" alt="Logo" width="200"></a>
   <br>
   Center Infos - TheyCallMePapa
   <br>
@@ -27,7 +27,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](Images/Screenshot.png)
+![screenshot](images/Screenshot.png)
 
 ## Key Features
 Can center the time, an app name or song title.  Can be turned off.  Time does not have to be configured to be in center by Droptop.
