@@ -1,7 +1,21 @@
 [Variables]
 
-CustomAppName=Searchbar
-CustomAppVersion=2.1
+; -------------------------------------------------------------------------------
+; Below variables are required for the app's function. Do not remove or change.
+; -------------------------------------------------------------------------------
+
+MyAppID=SearchBar-Mike_Boynton
+MyAppName=SearchBar
+MyAppAuthor=Mike Boynton
+MyVariablesLoc=#SKINSPATH#Droptop Community Apps\Apps\SearchBar-Mike_Boynton\Variables\Variables.inc
+
+; -------------------------------------------------------------------------------
+; Add your variables below: 
+; -------------------------------------------------------------------------------
+
+
+CustomAppName=SearchBar
+CustomAppVersion=23.0429
 CustomAppCreators=Mike Boynton & Cariboudjan
 
 URLLocale1=com
@@ -18,7 +32,7 @@ Flag3=3
 Flag4=4
 Flag5=5
 
-Name1=USA
+Name1=United States
 Name2=Canada
 Name3=Spain
 Name4=Brazil
@@ -50,10 +64,11 @@ Logo8=#CURRENTPATH#Images\bestbuy.png
 Logo9=#CURRENTPATH#Images\newegg.png
 Logo10=#CURRENTPATH#Images\etsy.png
 
-FlagPic1=#SKINSPATH#Droptop Community Apps\Apps\SearchBar-Mike_Boynton\Images\com.png
-FlagPic2=#SKINSPATH#Droptop Community Apps\Apps\SearchBar-Mike_Boynton\Images\ca.png
-FlagPic3=#SKINSPATH#Droptop Community Apps\Apps\SearchBar-Mike_Boynton\Images\es.png
-FlagPic4=#SKINSPATH#Droptop Community Apps\Apps\SearchBar-Mike_Boynton\Images\br.png
-FlagPic5=#SKINSPATH#Droptop Community Apps\Apps\SearchBar-Mike_Boynton\Images\be.png
+FlagPic1=#CURRENTPATH#Images\com.png
+FlagPic2=#CURRENTPATH#Images\ca.png
+FlagPic3=#CURRENTPATH#Images\es.png
+FlagPic4=#CURRENTPATH#Images\br.png
+FlagPic5=#CURRENTPATH#Images\be.png
 
 CommunityAppRunOnce=1
+MyAppGUID=b26b3e26-8513-43b2-ae21-7ef50668c7ae
